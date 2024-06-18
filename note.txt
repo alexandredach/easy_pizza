@@ -1,0 +1,13 @@
+class Discount :
+méthode factory Discount.fromJson qui va mapper les données qui vont convertir le json en Dart
+
+cookbook : voir dart json
+
+Objectif : récupérer (Map) et convertir en dart (final) les données
+
+méthode toJson dans une class pour convertir le json
+factory task.fromJson
+puis
+Map<...,...> toJson
+puis
+toString
